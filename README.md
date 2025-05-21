@@ -4,18 +4,18 @@ Profile UI App
 This is a demo Android app that shows a profile screen, styled after a modern fintech app.
 
  Features
-- Dark theme profile UI
-- Shows your photo, name, member since, phone, and email
-- Info cards for credit score, cashback, bank balance
-- Rewards & Benefits section
-- Transactions & Support section
+
+Shows your photo, name, member since, phone, and email
+info cards for credit score, cashback, bank balance
+Rewards & Benefits section
+Transactions & Support section
 
  Personalization
 
-- Name: andaz kumar
-- Phone: as mentioned
-- Email: as mentioned
-- Avatar:  
+Name: andaz kumar
+Phone: as mentioned
+ Email: as mentioned
+Avatar:  
   ![Profile](app/src/main/res/drawable/profile)
 
  Screenshots
@@ -33,6 +33,6 @@ This is a demo Android app that shows a profile screen, styled after a modern fi
 
  Tech Stack
 
-- Kotlin
-- Jetpack Compose
-- Material3
+Kotlin
+Jetpack Compose
+Material3
