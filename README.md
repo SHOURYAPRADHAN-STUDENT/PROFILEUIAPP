@@ -29,7 +29,7 @@ This is a demo Android app that shows a profile screen, styled after a modern fi
 1. Clone this repo.
 2. Open in Android Studio.
 3. Place your photo as `app/src/main/res/drawable/profile_shourya.png`.
-4. Build and run!
+4. Build and run.
 
  Tech Stack
 
